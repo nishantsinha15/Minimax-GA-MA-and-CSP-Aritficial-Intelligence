@@ -1,5 +1,5 @@
 # Minimax-GA-and-MA
-Includes problems requiring codes for:
+Includes working codes for:
   ## Tic Tac Toe
   1. Minimax
   2. Minimax Algorithm with Alpha Beta Pruning.
