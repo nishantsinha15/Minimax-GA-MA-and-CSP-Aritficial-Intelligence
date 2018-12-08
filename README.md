@@ -7,7 +7,7 @@ Includes problems requiring codes for:
 Programming Assignment 2 for for Artificial Intelligence course in IIIT Delhi.
 
 # Algorithm
-The approavch has been discussed in detail in the approach document.
+The approach has been discussed in detail in the approach document.
 
 START  
 1. Generate the initial population  
